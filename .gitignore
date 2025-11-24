@@ -1,0 +1,36 @@
+# Secrets directory - DO NOT COMMIT
+secrets/
+service_account.json
+*.key
+*.pem
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

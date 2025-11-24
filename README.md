@@ -19,9 +19,8 @@ The system consists of three main components:
 
 ## Live Application
 
-**Frontend URL:** [https://foto-owl-frontend.onrender.com/](https://foto-owl-frontend.onrender.com/)
 
-**GitHub Repository:** [https://github.com/Bhushan-04/Drive_import](https://github.com/Bhushan-04/Drive_import)
+**GitHub Repository:** https://github.com/chandanto2616/drive-image-importer
 
 ---
 
